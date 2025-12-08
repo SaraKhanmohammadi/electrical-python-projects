@@ -20,4 +20,10 @@ Calculates active power using the formula:
 **Background:** 10+ years as an Electrical/Electronics Engineer  
 **Target Roles:** Junior ML Engineer | Data Analyst | AI Engineer (Remote/Hybrid – Tehran)
 
+## project 2 - Electronics parts Inventory manager
+- Add/consume electronics component
+- Low-stock warning system
+- save & load data with Json
+- file: 'inventory_manager.py'
+
 Let's connect if you're hiring! 🚀
