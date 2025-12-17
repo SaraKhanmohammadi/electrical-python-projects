@@ -26,4 +26,10 @@ Calculates active power using the formula:
 - save & load data with Json
 - file: 'inventory_manager.py'
 
+## Project 3 – Power Consumption Analysis (24-hour Building Data)
+- Total, average, and peak consumption calculation
+- Cost estimation
+- Visualization with Matplotlib
+- File: power_analysis.py
+
 Let's connect if you're hiring! 🚀
