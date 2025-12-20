@@ -32,4 +32,11 @@ Calculates active power using the formula:
 - Visualization with Matplotlib
 - File: power_analysis.py
 
+## Project 4 – Simple Circuit Fault Detector
+- Takes voltage and current measurements as input
+- Detects: Overload, short circuit, open circuit, or normal operation
+- Based on standard electrical engineering tolerances
+- Demonstrates conditional logic and domain knowledge application
+- File: circuit_fault_detector.py
+
 Let's connect if you're hiring! 🚀
